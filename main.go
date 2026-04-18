@@ -1,3 +1,5 @@
+// By MAXCHICHAR on April 18th 2026
+
 package main
 
 import (
@@ -40,7 +42,7 @@ func main()  {
 
 	for scanner.Scan(){
 		line := scanner.Text()
-		
+
 		texts := internals.ApplyTokenizer(line)
 		// fmt.Println("Tokenizer: ", texts)
 		texts = internals.ApplyHex(texts)
