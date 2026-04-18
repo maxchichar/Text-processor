@@ -1,0 +1,29 @@
+It was the best of times, it was the worst of times (up) , it was the age of wisdom, it was the age of foolishness (cap, 6) , it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness. 
+
+In a small peaceful town nestled between green hills and a flowing river, a passionate young programmer named CHIBUEZE (low) spent countless nights coding. he(up) believed that with dedication and the right tools, anything was possible. 
+
+One evening while working on his latest project, he said to himself, Simply add 42 (hex) and 10 (bin) and you will see the result is 68. Moments later he tested 1E which should become 1E(HEX) and 1010 which should become 1010(BIN). The numbers danced across his screen as the conversions worked perfectly. 
+
+His close friend maxchichar often reminded him that clean and readable code is far better than clever but confusing code. Test mixed quotes with extra spaces: '   " chibueze '   "   and also "   ' maxchichar "   '   frequently appeared in his messy notes and comments. Sometimes he would write   "  '  never give up   '  "   with many unnecessary spaces just to challenge his text processor. 
+
+A elephant and a apple fell from the old tree in his garden early one morning. A hour ago he had seen a honest man walking peacefully with a umbrella during a light rain. 
+
+A useful tool is always better than a useless one, he often thought. However, a university student studying at a European campus once told him that a unique opportunity should never be wasted. A one time offer like this comes only rarely in life. 
+
+It was a one time offer   . .  . but he refused !! ?     ?   ...   What a big surprise it turned out to be! The punctuation in his draft was chaotic with extra spaces before commas   ,   exclamation marks   !   and question marks   ?   appearing repeatedly. Ellipses were broken like this . . . and multiple punctuation marks cluttered the text. 
+
+She said: ' I am awesome ' and he replied " you are amazing " . Another colleague wrote: "  '  we should collaborate on this   '  "   with irregular spacing and mixed quotes. 
+
+Go(up, 2) is really enjoyable to learn. Make sure (cap, 4) this entire sentence looks properly formatted and capitalized after processing . 
+
+The quick brown fox (low) jumps over the lazy dog (up) , a classic pangram that helps test text transformation tools . 
+
+FF(hex) equals FF while 1111(bin) becomes 1111 in binary . This is (cap) extremely important because we need to test (up, 3) several transformations happening together in one long flowing story. 
+
+After many hours of hard work,chibueze leaned back in his chair feeling satisfied . In the end   '   "  everything   '   "   should be cleaned properly with correct spacing, no extra spaces around quotes, and accurate articles . There should be no more wrong usages like a elephant or an useful tool . All flags whether attached or not should be handled gracefully . 
+
+The night grew deeper and the stars shone brightly above the quiet town . As chibueze continued refining his text processor , he dreamed of the day when his creation would smoothly handle any messy input with elegance and precision. 
+
+One final test remained : a honest effort always deserves an honest result . A university in Europe offers a unique program that a talented young developer like him must not miss . He believed that with patience and continuous improvement , great things could be achieved         . 
+
+And so the story of the determined programmer and his ambitious text processing project continued deep into the peaceful night , filled with hope ,challenges , and the quiet satisfaction of building something meaningful from chaos  .
