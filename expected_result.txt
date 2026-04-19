@@ -6,7 +6,7 @@ One evening while working on his latest project, he said to himself, Simply add 
 
 His close friend maxchichar often reminded him that clean and readable code is far better than clever but confusing code. Test mixed quotes with extra spaces: '"chibueze'" and also "'maxchichar"' frequently appeared in his messy notes and comments. Sometimes he would write "'never give up'" with many unnecessary spaces just to challenge his text processor.
 
-an elephant and an apple fell from the old tree in his garden early one morning. an hour ago he had seen an honest man walking peacefully with an umbrella during a light rain.
+an elephant and an apple fell from the old tree in his garden early one morning. a hour ago he had seen a honest man walking peacefully with an umbrella during a light rain.
 
 a useful tool is always better than a useless one, he often thought. However, a university student studying at a European campus once told him that a unique opportunity should never be wasted. an one time offer like this comes only rarely in life.
 
@@ -24,6 +24,8 @@ After many hours of hard work, chibueze leaned back in his chair feeling satisfi
 
 The night grew deeper and the stars shone brightly above the quiet town. As chibueze continued refining his text processor, he dreamed of the day when his creation would smoothly handle any messy input with elegance and precision.
 
-One final test remained: an honest effort always deserves an honest result. a university in Europe offers a unique program that a talented young developer like him must not miss. He believed that with patience and continuous improvement, great things could be achieved.
+One final test remained: a honest effort always deserves a honest result. a university in Europe offers a unique program that a talented young developer like him must not miss. He believed that with patience and continuous improvement, great things could be achieved.
 
 And so the story of the determined programmer and his ambitious text processing project continued deep into the peaceful night, filled with hope, challenges, and the quiet satisfaction of building something meaningful from chaos.
+
+a book a human
