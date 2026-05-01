@@ -1,0 +1,18 @@
+[
+  {
+    "fileId": "3626dfa3ffb5f270b642207acd0031b9",
+    "filename": "3626dfa3ffb5f270b642207acd0031b9.txt",
+    "originalSize": 3735,
+    "processedSize": 3497,
+    "timestamp": "2026-05-01T12:52:27.243521292+01:00",
+    "transformations": {
+      "tokenize": true,
+      "hex": true,
+      "bin": true,
+      "case": true,
+      "quote": true,
+      "punctuation": true,
+      "article": true
+    }
+  }
+]
